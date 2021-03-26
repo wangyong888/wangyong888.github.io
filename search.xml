@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>博客创建记录</title>
+    <url>/2021/03/26/%E5%8D%9A%E5%AE%A2%E5%88%9B%E5%BB%BA%E8%AE%B0%E5%BD%95/</url>
+    <content><![CDATA[<hr>
+<p>我好菜，弄这个博客花了一天多时间。</p>
+<p>刚开始用的其它模板，结果调整时出问题。没改好，换了现在的next主题模板，改了下。</p>
+<p>还有一些地方没调好，以后再说。</p>
+<p>真简便，用hexo就十几行代码就做好了。</p>
+]]></content>
+      <categories>
+        <category>hexo node.js</category>
+      </categories>
+      <tags>
+        <tag>start</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>好难受</title>
     <url>/2021/03/26/%E5%A5%BD%E9%9A%BE%E5%8F%97/</url>
     <content><![CDATA[<hr>
